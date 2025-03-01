@@ -34,21 +34,21 @@ The Laptop Price Prediction project utilizes a regression model trained on lapto
 ## 3. Dataset Description
 The dataset used includes the following columns:
 
--**Laptop Name**: The unique identifier or model name of the laptop.
--**Brand**: Laptop brand.
--**Model**: Specific model name.
--**Type**: Type of laptop (Ultrabook, Notebook, etc.).
--**Screen Size**: Screen size in inches.
--**RAM (Random Access Memory)**: The amount of RAM available for multitasking.
--**Operating System (OS)**: The type of operating system installed.
--**Weight**: Laptop weight in kg.
--**Price (Euros)**: The cost of the laptop in Euros.
--**Screen Type**: Type of screen display.
--**Screen Features**: Features such as Touchscreen, IPS panel, Retina display.
--**CPU (Central Processing Unit)**: The processor brand, model, and frequency.
--**GPU (Graphics Processing Unit)**: The graphics card brand and model.
--**Primary Storage**: Storage capacity and type (HDD, SSD, etc.).
--**Secondary Storage**: Additional storage capacity and type.
+- **Laptop Name**: The unique identifier or model name of the laptop.
+- **Brand**: Laptop brand.
+- **Model**: Specific model name.
+- **Type**: Type of laptop (Ultrabook, Notebook, etc.).
+- **Screen Size**: Screen size in inches.
+- **RAM (Random Access Memory)**: The amount of RAM available for multitasking.
+- **Operating System (OS)**: The type of operating system installed.
+- **Weight**: Laptop weight in kg.
+- **Price (Euros)**: The cost of the laptop in Euros.
+- **Screen Type**: Type of screen display.
+- **Screen Features**: Features such as Touchscreen, IPS panel, Retina display.
+- **CPU (Central Processing Unit)**: The processor brand, model, and frequency.
+- **GPU (Graphics Processing Unit)**: The graphics card brand and model.
+- **Primary Storage**: Storage capacity and type (HDD, SSD, etc.).
+- **Secondary Storage**: Additional storage capacity and type.
 
 <hr>
 
