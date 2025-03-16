@@ -13,6 +13,7 @@ Try it out : <a href="https://laptop-price-predictor-ys.streamlit.app/" target="
 - Dataset Description
 - Technologies Used
 - Installation
+- Project Structure
 - Usage
 - Results
 - Demo
@@ -65,17 +66,50 @@ The dataset used includes the following columns:
 ## 5. Installation
 #### Follow these steps to set up the project locally:
 
-1. Clone the repository:<br>
-**command:** <code>git clone https://github.com/yashsahu02/Laptop_Price_Prediction.git</code>
+1. Clone the repository:<br> 
+```bash
+git clone https://github.com/yashsahu02/Laptop_Price_Prediction.git
+```
 
 2. Navigate to the project directory:<br>
 
 3. Install the dependencies:<br>
+<!--
 **command:** <code>pip install -r requirements.txt</code>
+-->
+```bash
+pip install -r requirements.txt
+```
 
-## 6. Usage
+<hr>
+
+## 6. Project Structure
+```
+📂 Laptop_Price_Prediction
+ ├── 📂 Data
+      ├── laptop_prices.csv                  
+ ├── 📂 models
+      ├── cat_col_list.pkl
+      ├── dataframe.pkl
+      ├── model.pkl
+      ├── preprocessor.pkl      
+ ├── 📂 pages
+      ├── 2_📄_About.py  
+ ├── 📄 1_🏠︎_Homepage.py
+ ├── 📄 Laptop_Price_Prediction.ipynb 
+ ├── 📄 about.html
+ ├── 📄 requirements.txt       
+ ├── 📄 README.md              
+```
+
+<hr>
+
+## 7. Usage
 #### Run the application:
 - **command:** <code>streamlit run app.py</code><br>
+```bash
+streamlit run app.py
+```
 Here app.py is name of python file.
 #### Use the web interface to:
 - Manually input laptop details (e.g., brand, processor, RAM, storage, etc.).
@@ -83,7 +117,7 @@ Here app.py is name of python file.
 
 <hr>
 
-## 7. Results
+## 8. Results
 - The **RandomForestRegressor** achieved the highest performance as compared to other algorithms.
 #### Model Performance:
 - **R2 Score**:0.87
@@ -93,7 +127,7 @@ Here app.py is name of python file.
 
 <hr>
 
-## 8. Demo
+## 9. Demo
 
 <!--
 - Watch the full project demo:
@@ -108,22 +142,20 @@ Here app.py is name of python file.
 
 ![Image](https://github.com/user-attachments/assets/9b9507cd-475c-492d-bf07-a5ac079a9427)
 
-<br>
+<hr>
 
 ![Image](https://github.com/user-attachments/assets/167e7b6c-a67d-48b8-8db3-e65947fb42d2)
 
-<br>
+<hr>
 
+#### Prediction (Predicted Price)
 ![Image](https://github.com/user-attachments/assets/2a846be1-fe45-4b5d-9ef5-e12387cc811d)
 
 **About Page**
 ![Image](https://github.com/user-attachments/assets/d8c1f7f6-0970-451d-b4c9-07ec15fc4b73)
+
+<hr>
+
 ![Image](https://github.com/user-attachments/assets/f8ccb336-8209-4cbb-a3b9-47261ed64ca2)
 
 <br>
-<br>
-
-#### Prediction (Predicted Price)
-<!--
-screen shot 2
--->
