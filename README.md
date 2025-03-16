@@ -106,9 +106,19 @@ Here app.py is name of python file.
 
 **Screenshots**
 
-<!--
-screen shot 1
--->
+![Image](https://github.com/user-attachments/assets/9b9507cd-475c-492d-bf07-a5ac079a9427)
+
+<br>
+
+![Image](https://github.com/user-attachments/assets/167e7b6c-a67d-48b8-8db3-e65947fb42d2)
+
+<br>
+
+![Image](https://github.com/user-attachments/assets/2a846be1-fe45-4b5d-9ef5-e12387cc811d)
+
+**About Page**
+![Image](https://github.com/user-attachments/assets/d8c1f7f6-0970-451d-b4c9-07ec15fc4b73)
+![Image](https://github.com/user-attachments/assets/f8ccb336-8209-4cbb-a3b9-47261ed64ca2)
 
 <br>
 <br>
