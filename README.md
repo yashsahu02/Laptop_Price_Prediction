@@ -106,9 +106,8 @@ pip install -r requirements.txt
 
 ## 7. Usage
 #### Run the application:
-- **command:** <code>streamlit run app.py</code><br>
 ```bash
-streamlit run app.py
+streamlit run 1_🏠︎_Homepage.py  
 ```
 Here app.py is name of python file.
 #### Use the web interface to:
@@ -151,6 +150,8 @@ Here app.py is name of python file.
 #### Prediction (Predicted Price)
 ![Image](https://github.com/user-attachments/assets/2a846be1-fe45-4b5d-9ef5-e12387cc811d)
 
+<hr>
+
 **About Page**
 ![Image](https://github.com/user-attachments/assets/d8c1f7f6-0970-451d-b4c9-07ec15fc4b73)
 
@@ -158,4 +159,11 @@ Here app.py is name of python file.
 
 ![Image](https://github.com/user-attachments/assets/f8ccb336-8209-4cbb-a3b9-47261ed64ca2)
 
+<hr>
+
 <br>
+
+## Yash Sahu
+<a href="https://www.linkedin.com/in/yashsahu02" target="_blank">LinkedIn</a>
+<br>
+<a href="https://www.kaggle.com/yashsahu02" target="_blank">Kaggle</a>
