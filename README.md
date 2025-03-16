@@ -2,7 +2,7 @@
 A machine learning web application that predicts the price of laptops based on various features such as brand, processor type, RAM, storage, graphics card, screen size, and more.
 
 
-Try it out : <a href="https://laptop-price-predictor-ys.streamlit.app/">Live</a>
+Try it out : <a href="https://laptop-price-predictor-ys.streamlit.app/" target="_blank">Live</a>
 
 
 <hr>
