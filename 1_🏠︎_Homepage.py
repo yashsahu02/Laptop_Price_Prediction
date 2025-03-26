@@ -160,3 +160,14 @@ if st.button('Generate Output',on_click=None,type="secondary"):
     output = round(output[0], 2)
     output = str(output) + " €"
     st.title(output)
+    
+
+app_sidebar = st.sidebar
+
+with app_sidebar:
+    st.link_button(
+        label="Project Link",
+        url="https://github.com/yashsahu02/Laptop_Price_Prediction.git",
+        # icon=":material/code_off:",
+        use_container_width=True
+    )
