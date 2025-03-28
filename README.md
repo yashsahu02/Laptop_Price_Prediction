@@ -128,14 +128,15 @@ Here app.py is name of python file.
 
 ## 9. Demo
 
-<!--
 - Watch the full project demo:
 
+
+<!--
 **Demo Video**
-
-
 <br>
 -->
+
+<hr>
 
 **Screenshots**
 
@@ -148,11 +149,11 @@ Here app.py is name of python file.
 <hr>
 
 #### Prediction (Predicted Price)
-<<<<<<< HEAD
+
 <!--
 screen shot 2
 -->
-=======
+
 ![Image](https://github.com/user-attachments/assets/2a846be1-fe45-4b5d-9ef5-e12387cc811d)
 
 <hr>
